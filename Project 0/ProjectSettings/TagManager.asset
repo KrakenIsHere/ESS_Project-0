@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grab
+  - WeaponCamera
+  - Interact
+  - Ladder
+  - DynamicObject
+  - OnlyGrab
+  - Grass
+  - Paper
+  - Wood
+  - Floor
+  - Metal
+  - Dirt
+  - Examine
+  - HideEvent
+  - GreenField
+  - RedField
+  - Moveables
+  - Heavy Moveables
+  - Light Moveables
+  - Square Moveables
+  - Sphere Moveables
+  - Jump-Boost Station
+  - Strength-Boost Station
+  - Speed-Boost Station
+  - PlayerButton
+  - Heal
+  - HOT
+  - Damage
+  - DOT
+  - Dice
+  - Asteroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Clipable
+  - Interact
+  - NonClipable
+  - Trigger
+  - CullLight
+  - Ground
+  - PLayerOnly
+  - Transparent
+  - GreenFF
+  - RedFF
+  - Camera
+  - DiceSide
+  - Teleporter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
