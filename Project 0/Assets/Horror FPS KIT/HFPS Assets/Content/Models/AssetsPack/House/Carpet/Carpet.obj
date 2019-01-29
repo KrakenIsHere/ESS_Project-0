@@ -1,0 +1,22 @@
+mtllib ./Carpet.All files.mtl
+g Carpet
+v 0 0 0
+v 0 0 5.5
+v -6.5 0 0
+v -6.5 0 5.5
+
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+vn 0 1 0
+
+vt 0 0
+vt 0 5.5
+vt 6.5 0
+vt 6.5 5.5
+
+g Carpet
+usemtl Carpet
+usemap Carpet
+f 2/2/2 1/1/1 3/3/3
+f 4/4/4 2/2/2 3/3/3

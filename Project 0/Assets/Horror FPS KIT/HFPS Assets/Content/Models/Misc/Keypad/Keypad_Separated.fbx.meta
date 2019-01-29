@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 0f63c2dfecf1b0b4684b618cea27dcdc
+timeCreated: 1497725058
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Keypad.0
+    100002: Keypad.001
+    100004: Keypad.002
+    100006: Keypad.003
+    100008: Keypad.004
+    100010: Keypad.005
+    100012: Keypad.006
+    100014: Keypad.007
+    100016: Keypad.008
+    100018: Keypad.009
+    100020: Keypad.Back
+    100022: Keypad.Enter
+    100024: Keypad_Mesh
+    100026: //RootNode
+    400000: Keypad.0
+    400002: Keypad.001
+    400004: Keypad.002
+    400006: Keypad.003
+    400008: Keypad.004
+    400010: Keypad.005
+    400012: Keypad.006
+    400014: Keypad.007
+    400016: Keypad.008
+    400018: Keypad.009
+    400020: Keypad.Back
+    400022: Keypad.Enter
+    400024: Keypad_Mesh
+    400026: //RootNode
+    2300000: Keypad.0
+    2300002: Keypad.001
+    2300004: Keypad.002
+    2300006: Keypad.003
+    2300008: Keypad.004
+    2300010: Keypad.005
+    2300012: Keypad.006
+    2300014: Keypad.007
+    2300016: Keypad.008
+    2300018: Keypad.009
+    2300020: Keypad.Back
+    2300022: Keypad.Enter
+    2300024: Keypad_Mesh
+    3300000: Keypad.0
+    3300002: Keypad.001
+    3300004: Keypad.002
+    3300006: Keypad.003
+    3300008: Keypad.004
+    3300010: Keypad.005
+    3300012: Keypad.006
+    3300014: Keypad.007
+    3300016: Keypad.008
+    3300018: Keypad.009
+    3300020: Keypad.Back
+    3300022: Keypad.Enter
+    3300024: Keypad_Mesh
+    4300000: Keypad_Mesh
+    4300002: Keypad.0
+    4300004: Keypad.001
+    4300006: Keypad.002
+    4300008: Keypad.003
+    4300010: Keypad.004
+    4300012: Keypad.005
+    4300014: Keypad.006
+    4300016: Keypad.007
+    4300018: Keypad.008
+    4300020: Keypad.009
+    4300022: Keypad.Back
+    4300024: Keypad.Enter
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: c3aa356c38b98c44dad6c4b71930dbef
+timeCreated: 1503098931
+licenseType: Store
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Rhyolite_Rock
+    prototypeName: Rhyolite_Rock
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: Rhyolite_Rock_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Rhyolite_Rock_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Rhyolite_Rock_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Rhyolite_Rock_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Rhyolite_Rock_output
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 980455964
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 980455966
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 980455962
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 1060849208
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 1042266347
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

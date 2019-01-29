@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: de787a0d16e2a21419a63bdcecee82ba
+timeCreated: 1506574608
+licenseType: Store
+SubstanceImporter:
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Cliff_Rock_Tutorial
+    prototypeName: Cliff_Rock_Tutorial
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: Cliff_Rock_Tutorial_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Cliff_Rock_Tutorial_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Cliff_Rock_Tutorial_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Cliff_Rock_Tutorial_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Cliff_Rock_Tutorial_ambientOcclusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 2189546024
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 2189546026
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 2189546030
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 2273644519
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 2263808223
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: 0fcf4a3c4494a3043a670b722ed82074
+timeCreated: 1509687686
+licenseType: Store
+SubstanceImporter:
+  externalObjects: {}
+  serializedVersion: 5
+  materialInstances:
+  - serializedVersion: 16
+    name: Antique_Oak_Wood
+    prototypeName: Antique_Oak_Wood
+    shaderName: 
+    shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    shaderKeywords: 
+    renderQueue: -1
+    lightmapFlags: 4
+    inputs: []
+    materialInformation:
+      serializedVersion: 5
+      offset: {x: 0, y: 0}
+      scale: {x: 1, y: 1}
+      generateMipmaps: 1
+      generateAllOutputs: 0
+      animationUpdateRate: 0
+    materialProperties:
+      serializedVersion: 3
+      texEnvs: []
+      floats: []
+      colors: []
+    textureParameters:
+    - name: Antique_Oak_Wood_basecolor
+      alphaSource: 6
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Antique_Oak_Wood_normal
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Antique_Oak_Wood_metallic
+      alphaSource: 7
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Antique_Oak_Wood_height
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    - name: Antique_Oak_Wood_Ambient_Occlusion
+      alphaSource: 0
+      filterMode: 1
+      aniso: 1
+      wrapMode: 0
+    textureAssignments:
+    - shaderProp: _MainTex
+      material: {instanceID: 0}
+      baseUID: 3031856746
+    - shaderProp: _BumpMap
+      material: {instanceID: 0}
+      baseUID: 3031856744
+    - shaderProp: _MetallicGlossMap
+      material: {instanceID: 0}
+      baseUID: 3031856748
+    - shaderProp: _OcclusionMap
+      material: {instanceID: 0}
+      baseUID: 2977189481
+    - shaderProp: _ParallaxMap
+      material: {instanceID: 0}
+      baseUID: 2967035037
+    buildTargetSettings:
+    - serializedVersion: 2
+      buildTarget: 
+      textureWidth: 512
+      textureHeight: 512
+      textureFormat: 0
+      loadingBehavior: 1
+  deletedPrototypes: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

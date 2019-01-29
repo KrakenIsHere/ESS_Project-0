@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f98eab1ddfbc99d4abea2f5720080270
+timeCreated: 1539244556
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AsteroidPrefab: {fileID: 1115061882946550, guid: 857eda7982ff4134a85882c84e0f6054,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+Project 0, ToDo:
+
+-Create more Levels
+
+-Powerup items / stations
+
+-Fix PlayerOnly Force field
+
+-Main menu scenari
